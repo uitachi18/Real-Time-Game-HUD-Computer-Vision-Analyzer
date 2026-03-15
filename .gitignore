@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+health_events.csv
+*.log
+
+# Environment
+.env
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
