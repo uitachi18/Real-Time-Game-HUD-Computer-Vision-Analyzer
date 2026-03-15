@@ -58,5 +58,9 @@ Before depending on the tool in-game, you must adapt it to your specific monitor
 *   `vision_engine.py`: OpenCV operations that calculate the exact percentage of the visible health bar.
 *   `triggers.py`: Handles audio cues (`winsound`) and event logging (`pandas`).
 
+## 👤 Creator
+
+This project was designed and developed by **Gaurav**, a Senior AI/ML Computer Vision Engineer focused on creating high-performance, resource-efficient automation tools for gamers and developers.
+
 ## 🔑 License
 MIT License
